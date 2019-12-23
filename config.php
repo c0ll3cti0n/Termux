@@ -1,5 +1,3 @@
-<?php
-// your email address //
-
-$alamat_BTC ="Melekali038@gmail.com";
-
+<? 
+$email = "tajibaevaan@gmail.com";
+$pass = "534029an";
