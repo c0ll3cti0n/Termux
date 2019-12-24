@@ -1,3 +1,2 @@
-<? 
-$email = "tajibaevaan@gmail.com";
-$pass = "534029an";
+<?php
+$Wallet_Address = "0xc229c10299617BE54c6AD7412167f1AF71b3E697";
