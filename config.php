@@ -1,4 +1,4 @@
-<? /* Tool được cover bởi Kênh Youtube Kiếm tiền Du học Vlog |nghiêm cấm sao chép| */
+<?php
 
-$email = "tajibaevaan@gmail.com";
-$pass = "534029an";
+$alamat_BTC ="melekali038@gmail.com";
+
